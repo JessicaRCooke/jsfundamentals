@@ -1,0 +1,50 @@
+/* h1{
+    color: lightgreen; text-align: center;
+}
+
+h3{ 
+    color: blue;
+}
+
+p{
+    color: red;
+}
+
+div.main{
+    border-style: solid; 
+    border-width: thick; 
+    border-color: black; 
+    border-radius: 25px;
+    background-color: grey;
+    
+
+}
+
+.sub{ 
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    background-color: lightgrey;
+
+} */
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+table, th, tr, td{
+    background: lightskyblue;
+    border: solid 2px black;
+}
+
+.title {
+    font-style: italic;
+}
+
+
+
+
+
