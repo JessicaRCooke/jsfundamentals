@@ -44,3 +44,7 @@ for (let i = 1; i <= 50; i++) {
 }
 console.log(sum);
 
+let count = 0;
+for ( ;  count < 9; ++count ) {
+  console.log(count);
+}

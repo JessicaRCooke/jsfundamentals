@@ -33,3 +33,4 @@ let age = 100;
     : (age >= 18) ? console.log('yay you can vote!') 
     : console.log('sorry, you are too young to do anything')
 
+    

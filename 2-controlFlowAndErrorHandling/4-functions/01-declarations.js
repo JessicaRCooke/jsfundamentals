@@ -11,3 +11,4 @@ function hi() {
 }
 
 // function that's not stored in a variable is known as a function declaration
+

@@ -43,7 +43,7 @@ switch (true) {
         console.log('Fizz Buzz');
         break
     case (FB % 3 === 0):
-        console.log('Fizz"');
+        console.log('Fizz');
         break
     case (FB % 5 === 0):
         console.log('Buzz');

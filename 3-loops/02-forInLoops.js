@@ -1,6 +1,6 @@
 // FOR IN LOOPS ARE USED FOR OBJECTS but we can also use them for arrays
 // great for iterating over values in an object. Properties in an object are whats called 'enmerable'
-// for in loo[s iterate ove an object's enumberable properties
+// for in loo[s iterate over an object's enumberable properties
 
 let student = {
     name: 'Peter',

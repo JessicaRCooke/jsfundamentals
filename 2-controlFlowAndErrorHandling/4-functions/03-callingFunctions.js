@@ -12,7 +12,7 @@ console.log(hi());
     -the parentheses after a function IMMEDIATLEY invoke the function that's being called
     -we get undefined because we are not returning any information or data from our function
 */
- c
+ 
 function numberList() {
     for (num = 0; num < 11; num++) {
     console.log (num);
