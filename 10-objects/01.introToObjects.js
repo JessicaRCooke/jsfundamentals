@@ -56,12 +56,12 @@ let netFlix = {
 
 //console.log("Season Info:", netFlix.season1.seasonInfo);
 
-//console.log("Specific Episode Name:", netFlix.season1.seasonInfo.episodeInfo[3].episodeName);
+console.log("Specific Episode .Name:", netFlix.season1.seasonInfo.episodeInfo[3].episodeName);
 
 //console.log("Episode Name and Number:", netFlix.season1.seasonInfo.episodeInfo[2].episode.episodeName);
 
-console.log(`episode number: ${netFlix.season1.seasonInfo.episodeInfo[4].episode} - episode name:
-${netFlix.season1.seasonInfo.episodeInfo[4].episodeName}`);
+//console.log(`episode number: ${netFlix.season1.seasonInfo.episodeInfo[4].episode} - episode name:
+//${netFlix.season1.seasonInfo.episodeInfo[4].episodeName}`);
 
 /*
     JSON Object
@@ -104,7 +104,7 @@ let spaceJam ={
 //console.log(Object.keys(spaceJam.toonSquad.duck)); // gives the indexes of the string 'daffy duck'
 //console.log(Object.keys(spaceJam.toonSquad).toString());
 
-//console.log(Object.values(spaceJam.toonSquad));
+console.log(Object.values(spaceJam.toonSquad));
 
 /*
  -Object bracket notation
